@@ -164,8 +164,18 @@ jouzia = {
 ---
 
 <!-- Snake Animation -->
+---
+
+## ⚡ Skills & Tools
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,mongodb,git,github,vscode,vercel&perline=5&theme=dark" alt="Tech Stack Icons"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding"/>
 </div>
 
 <!-- Footer Wave -->
