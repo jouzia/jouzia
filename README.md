@@ -16,7 +16,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Jouzia
+# 👋 Hi, I'm Shaik Jouzia Afreen H
 
 ### BCA Student • AI Explorer • Developer • Builder
 
