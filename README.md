@@ -1,182 +1,527 @@
+````markdown
 <div align="center">
 
-<!-- Header Wave + Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1b27,30,364172,100,1a1b27&height=220&section=header&text=Jouzia%20Afreen%20H&fontSize=58&fontAlignY=38&animation=twinkling&fontColor=a9b1d6&desc=Student%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Builder&descAlignY=60&descSize=18&descColor=565f89" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:111827,75:334155,100:2563EB&height=210&section=header&text=SHAIK%20JOUZIA%20AFREEN%20H&fontSize=42&fontColor=E5E7EB&fontAlignY=38&desc=AI%20%C2%B7%20SOFTWARE%20%C2%B7%20BUILDING%20IN%20PUBLIC&descAlignY=62&descSize=15&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Jouzia+👋;Student+%7C+Developer+%7C+AI+Builder;Built+a+Chatbot+powered+by+xAI+Grok+🤖;Python+%7C+React+%7C+MongoDB+%7C+APIs;Always+learning%2C+always+building+🚀" alt="Typing SVG"/>
+# Shaik Jouzia Afreen H
+
+### BCA Student · Developer · Builder
+
+**Exploring AI, software engineering and creative technology by building things I genuinely want to understand.**
 
 <br/>
 
-<!-- Profile Views + Live App Badge -->
-<img src="https://komarev.com/ghpvc/?username=jouzia&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://chat-ai-arpbmd4cpu6htqrqbujnyy.streamlit.app/">
-  <img src="https://img.shields.io/badge/🤖_Live_AI_Chatbot-Try_it_Now!-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Chatbot"/>
+<a href="https://github.com/jouzia">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
 </a>
-&nbsp;
-<a href="https://portfolio-jouzia.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://jouziaportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
+<a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344">
+<img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+`BCA · 2024—2027` &nbsp;·&nbsp; `St. Joseph's College` &nbsp;·&nbsp; `India`
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `01` — ABOUT ME
 
-```python
-jouzia = {
-    "name"       : "Jouzia Afreen H",
-    "role"       : "Student Developer & AI Enthusiast",
-    "location"   : "India 🇮🇳",
-    "portfolio"  : "https://portfolio-jouzia.vercel.app/",
-    "currently"  : "Building AI-powered apps with Python & Streamlit",
-    "learning"   : ["Advanced React", "Machine Learning", "API Design"],
-    "fun_fact"   : "I built a chatbot powered by xAI's Grok — and deployed it! 🚀"
-}
+I'm **Shaik Jouzia Afreen H**, a BCA student exploring the intersection of **AI, software development and creative technology**.
+
+I'm early in my career, so I don't want this profile to pretend otherwise.
+
+Instead, I want it to show something more useful:
+
+**what I build, what I'm learning, how I think about problems, and how I'm improving.**
+
+I enjoy moving from an idea → experiment → working system.
+
+Some projects are small experiments.
+
+Some become much bigger.
+
+And occasionally, curiosity turns into something I didn't expect to build in the first place.
+
+> **Still learning. Still building. Taking every project a little further than the last.**
+
+---
+
+## `02` — WHAT I'M EXPLORING
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+Exploring AI beyond simple chatbot interactions.
+
+- Generative AI
+- AI applications
+- LLMs
+- Agentic systems
+- Multi-agent workflows
+- AI evaluation
+- Prompt engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+Learning how ideas become maintainable software.
+
+- Python
+- JavaScript
+- React
+- Next.js
+- APIs
+- Full-stack development
+- Git & GitHub
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Intelligent Systems
+
+Interested in how systems can reason, remember and respond.
+
+- Agent architectures
+- Memory systems
+- Context
+- Routing
+- Evaluation
+- Human-in-the-loop systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Creative Technology
+
+I care about how software feels as well as how it works.
+
+- UI/UX
+- Interactive interfaces
+- Motion
+- Visual systems
+- Product design
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `03` — SELECTED WORK
+
+### 🧠 Bud AI
+
+**RIVAL-MENTOR LEARNING FRAMEWORK · AI · MULTI-AGENT SYSTEMS**
+
+Bud AI is an AI-powered learning system built around a **Rival-Mentor** concept.
+
+Instead of treating an AI assistant as a single personality, the project explores multiple specialized interactions designed to make learning more active and engaging.
+
+#### What I explored
+
+- AI persona design
+- Multi-agent orchestration
+- Context-aware responses
+- Educational assistance
+- Memory
+- RAG-ready architecture
+- Modular application structure
+- Secure API configuration
+
+#### Stack
+
+`Python` `Streamlit` `LangChain` `Google Gemini` `Groq` `Llama 3.3` `ChromaDB`
+
+#### OpenEnv Extension
+
+The project also evolved into a stateful OpenEnv-based benchmark environment for evaluating educational agents across multiple steps, including memory, grading, reward calculation and human-in-the-loop interaction.
+
+**Repository**
+
+→ https://github.com/jouzia/Bud-AI
+
+---
+
+### ⚡ OpenEnv Core
+
+**SENTIENT STUDY OS · REACT · INTERACTIVE SYSTEM**
+
+OpenEnv Core is an academic dashboard concept designed around helping BCA students manage complex study workflows and understand academic progress through an interactive interface.
+
+#### Highlights
+
+- Logic Forge for breaking complex material into smaller tasks
+- AI companion interface
+- CGPA projection
+- Dual-core mascot system
+- Interactive academic tracking
+- Glassmorphism interface
+- Motion-driven UI
+
+#### Stack
+
+`React` `JavaScript` `Framer Motion` `Lucide React` `CSS` `Vercel`
+
+**Live**
+
+→ https://open-env-core.vercel.app/
+
+**Repository**
+
+→ https://github.com/jouzia/OpenEnv-Core
+
+---
+
+### 🌐 Dynamic Portfolio
+
+**FULL-STACK PERSONAL PORTFOLIO · REACT · SUPABASE**
+
+The portfolio you're looking at isn't just a static website.
+
+I built it as a small full-stack system with a dynamic backend and protected admin functionality.
+
+#### Highlights
+
+- React + Vite architecture
+- Responsive UI
+- Tailwind CSS
+- Framer Motion
+- Supabase PostgreSQL
+- Supabase authentication
+- Protected admin routes
+- Certificate management
+- Cloud storage
+- Dynamic project management
+- Vercel deployment
+
+#### Stack
+
+`React` `Vite` `Tailwind CSS` `Framer Motion` `Supabase` `PostgreSQL` `Vercel`
+
+**Live Portfolio**
+
+→ https://jouziaportfolio.vercel.app
+
+**Repository**
+
+→ https://github.com/jouzia/Portfolio
+
+---
+
+### 🕸️ MCP — Notte Browser Agent
+
+**AI WEB PERCEPTION · MCP · BROWSER AUTOMATION**
+
+An exploration of **Model Context Protocol**, browser perception and AI-powered web automation.
+
+The project combines a modern Next.js interface with Notte and Patchright to experiment with turning websites into structured information that AI systems can work with.
+
+#### Highlights
+
+- Web perception
+- Browser automation
+- MCP concepts
+- AI agent workflows
+- Structured web data
+- Headless Chromium
+- Modern glassmorphism UI
+
+#### Stack
+
+`Next.js` `TypeScript` `Notte SDK` `Patchright` `Python`
+
+**Live**
+
+→ https://mcp-smoky-two.vercel.app/
+
+**Repository**
+
+→ https://github.com/jouzia/MCP
+
+---
+
+### 💬 Chat AI
+
+**AI APPLICATION · PYTHON**
+
+A Python-based AI application exploring conversational interfaces, authentication, dashboards, databases and AI-assisted workflows.
+
+The repository contains separate areas for:
+
+- AI functionality
+- Authentication
+- Dashboard
+- Database
+- Assistant logic
+- Vector storage
+- Configuration
+
+#### Stack
+
+`Python` `AI` `Streamlit`
+
+**Repository**
+
+→ https://github.com/jouzia/Chat-AI
+
+---
+
+## `04` — THE THREAD BETWEEN MY PROJECTS
+
+At first glance, these projects look different.
+
+But there's a pattern.
+
+```text
+                 CURIOUSITY
+                     │
+                     ▼
+              ┌─────────────┐
+              │     AI      │
+              └──────┬──────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       Agents     Memory      Context
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+             Intelligent Apps
+                     │
+                     ▼
+              Better Products
+````
+
+I'm interested in **what happens when software becomes more intelligent without becoming less understandable.**
+
+That's the direction I'm exploring.
+
+---
+
+## `05` — MY TOOLKIT
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,ts" />
+
+<br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+<br/>
+
+### Backend / Data
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres" />
+
+<br/>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,linux" />
+
+<br/>
+
+### AI
+
+`Generative AI` · `LLMs` · `LangChain` · `Gemini`
+`Groq` · `Llama` · `ChromaDB` · `RAG` · `AI Agents`
+
+---
+
+## `06` — HOW I LIKE TO BUILD
+
+I don't want every project to be another tutorial clone.
+
+My preferred loop is:
+
+```text
+        IDEA
+          │
+          ▼
+      QUESTION
+          │
+          ▼
+     EXPERIMENT
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       BREAK
+          │
+          ▼
+     UNDERSTAND
+          │
+          ▼
+       IMPROVE
+          │
+          └──────────────► BUILD AGAIN
+```
+
+The goal isn't to know everything before starting.
+
+The goal is to **start, learn what I don't know, and keep improving the system.**
+
+---
+
+## `07` — CURRENTLY LEARNING
+
+```text
+AI Engineering
+      │
+      ├── Agentic Systems
+      ├── Multi-Agent Architecture
+      ├── LLM Applications
+      └── Evaluation
+      │
+      ▼
+Software Engineering
+      │
+      ├── Advanced React
+      ├── API Design
+      ├── Full-Stack Architecture
+      └── Better Project Structure
+      │
+      ▼
+Machine Learning
+      │
+      ├── Fundamentals
+      ├── Data
+      └── Practical Applications
 ```
 
 ---
 
-## 🤖 Featured Project — Grok AI Chatbot
+## `08` — EDUCATION
+
+### 🎓 Bachelor of Computer Applications
+
+**St. Joseph's College of Arts & Science (Autonomous)**
+`2024 — 2027`
+
+Currently building my technical foundation through coursework, projects, experimentation and independent learning.
+
+---
+
+## `09` — RECOGNITION
+
+### 🏆 PromptWars Virtual
+
+**Google for Developers × H2S**
+
+Certificate of Appreciation for contribution and successful submission of a verified Generative AI solution for Challenge 1.
+
+---
+
+## `10` — GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://chat-ai-arpbmd4cpu6htqrqbujnyy.streamlit.app/">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6&ring_color=2563EB" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouzia&layout=compact&hide_border=true&bg_color=0B1220&title_color=60A5FA&text_color=CBD5E1" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jouzia&theme=dark&hide_border=true&background=0B1220&ring=2563EB&fire=60A5FA&currStreakLabel=CBD5E1" width="70%"/>
+
+</div>
+
+---
+
+## `11` — BEYOND THE CODE
+
+I also enjoy the creative side of technology.
+
+That means experimenting with:
+
+* Interface design
+* Visual identity
+* Motion
+* Digital experiences
+* Creative problem solving
+
+I like projects where **engineering and creativity have to work together.**
+
+---
+
+## `12` — WHAT'S NEXT
+
+I'm looking forward to building projects that are:
+
+`more useful` · `more thoughtful` · `more technically ambitious`
+
+Especially around:
+
+**AI × Software × Human Experience**
+
+I'm still figuring out exactly where that takes me.
+
+That's part of the fun.
+
+---
+
+## `13` — LET'S CONNECT
+
+If you're a developer, recruiter, student, researcher, builder, or simply someone interested in what I'm experimenting with —
+
+I'd love to connect.
+
+<div align="center">
+
+<br/>
+
+<a href="https://jouziaportfolio.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344">
+<img src="https://img.shields.io/badge/LINKEDIN-334155?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jouzia">
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> 🧠 Powered by **xAI Grok API** &nbsp;·&nbsp; ⚙️ Built with **Python + Streamlit** &nbsp;·&nbsp; ☁️ Deployed on **Streamlit Cloud**
-
-<br/>
-
-| 🧠 AI Model | ⚙️ Stack | 🚀 Status | ✨ Features |
-|:-----------:|:--------:|:---------:|:-----------:|
-| xAI Grok API | Python · Streamlit | ✅ Live & Deployed | Multi-turn chat · Real-time replies · Clean UI |
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://chat-ai-arpbmd4cpu6htqrqbujnyy.streamlit.app/)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/📦_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jouzia/Chat-AI)
+### Building → Learning → Experimenting → Improving
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68)
-![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7dcfff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:334155,100:05080D&height=110&section=footer" width="100%"/>
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-
-### 🗄️ Database & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
-![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=73daca)
-![xAI Grok](https://img.shields.io/badge/xAI_Grok-1a1b27?style=for-the-badge&logo=x&logoColor=a9b1d6)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=a9b1d6)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7aa2f7)
-![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+<sub>Shaik Jouzia Afreen H · BCA Student · 2024—2027</sub>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouzia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jouzia&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=565f89" height="180"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jouzia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jouzia&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area_color=364172" width="100%"/>
-</div>
-
----
-
-## 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/jouzia/Chat-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jouzia&repo=Chat-AI&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6"/>
-</a>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/jouzia-afreen-h-369018344)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)](https://portfolio-jouzia.vercel.app/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:jouziaafreenh@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=a9b1d6)](https://github.com/jouzia)
-&nbsp;
-[![Chatbot](https://img.shields.io/badge/Live_Chatbot-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://chat-ai-arpbmd4cpu6htqrqbujnyy.streamlit.app/)
-
-<br/>
-
-*💬 Always open to collaborating on interesting projects and ideas!*
-
-</div>
-
----
-
-<!-- Snake Animation -->
----
-
-## ⚡ Skills & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,mongodb,git,github,vscode,vercel&perline=5&theme=dark" alt="Tech Stack Icons"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding"/>
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1b27,30,364172,100,1a1b27&height=120&section=footer" width="100%"/>
+```
