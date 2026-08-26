@@ -365,20 +365,17 @@ View Repository →
 
 <img
   src="https://streak-stats.demolab.com/?user=jouzia&hide_border=true&background=0B1220&stroke=334155&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=60A5FA"
-  width="90%"
->
+  width="90%">
 
 <br><br>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1220"
-  width="48%"
->
+  width="48%">
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouzia&layout=compact&langs_count=8&hide_border=true&title_color=60A5FA&text_color=94A3B8&bg_color=0B1220"
-  width="48%"
->
+  width="48%">
 
 </div>
 
@@ -396,19 +393,16 @@ View Repository →
 
 <source
   media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg"
->
+  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg">
 
 <source
   media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
->
+  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg">
 
 <img
   src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
   alt="GitHub Contribution Snake"
-  width="90%"
->
+  width="90%">
 
 </picture>
 
