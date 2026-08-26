@@ -1,9 +1,6 @@
-````markdown
 <!-- ========================================================= -->
 <!--                  SHAIK JOUZIA AFREEN H                   -->
 <!-- ========================================================= -->
-
-<!-- =========================== HERO ========================= -->
 
 <p align="center">
   <img
@@ -12,37 +9,35 @@
   />
 </p>
 
-<br/>
+<br>
 
 <div align="center">
 
-# 👋 Hi, I'm Shaik Jouzia Afreen H
+# 👋 Hi, I'm Jouzia
 
-### BCA Student • AI Explorer • Developer • Builder
+### BCA Student · AI Explorer · Developer · Builder
 
-*Learning by building things I genuinely want to understand.*
+**Learning by building. Creating with curiosity.**
 
-<br/>
+<br>
 
 <a href="https://github.com/jouzia">
-<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
 <a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344">
-<img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA">
 </a>
 
 <a href="https://jouziaportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
 </a>
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ========================= ABOUT ========================== -->
 
 <div align="center">
 
@@ -50,132 +45,119 @@
 
 </div>
 
+<p align="center">
+I'm <b>Shaik Jouzia Afreen H</b>, a BCA student exploring
+<b>AI, software development and creative technology.</b>
+</p>
+
+<p align="center">
+I like understanding how things work by actually building them —
+from AI applications and interactive systems to modern web experiences.
+</p>
+
+<br>
+
 <div align="center">
 
-I'm **Shaik Jouzia Afreen H**, a BCA student exploring the intersection of
-
-**AI · Software Development · Creative Technology**
-
-I enjoy turning ideas into working systems and learning by actually building them.
-
-Currently exploring AI applications, intelligent systems, modern web development,
-and the space where engineering meets creativity.
+| 🎓 Education | 🤖 Focus | 🛠️ Approach | 🌱 Mindset |
+|:---:|:---:|:---:|:---:|
+| BCA · 2024–2027 | AI + Software | Build & Experiment | Always Learning |
 
 </div>
 
-<br/>
-
-```text
-Education  →  BCA · 2024 — 2027
-Focus      →  AI · Software · Creative Technology
-Based in   →  India 🇮🇳
-Status     →  Student · Builder · Learner
-````
-
-<br/>
+<br>
 
 > **Still early. Still curious. Still building.**
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
-
 <div align="center">
 
 ## `TECH STACK`
 
-<br/>
+<br>
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css">
 
-<br/><br/>
+<br><br>
 
-### Frontend
+### Frontend & Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,git,github">
 
-<br/><br/>
+<br><br>
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,supabase,vercel,docker,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=supabase,vercel,docker,vscode,linux">
 
-<br/><br/>
+<br><br>
 
-### AI / Data
+### AI
 
-`Generative AI` · `LLMs` · `LangChain` · `Gemini`
-`Groq` · `RAG` · `AI Agents` · `ChromaDB`
+`Generative AI` · `LLMs` · `AI Agents` · `RAG` · `LangChain`
+· `Gemini` · `Groq` · `ChromaDB`
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ===================== CURRENT FOCUS ====================== -->
 
 <div align="center">
 
 ## `CURRENTLY EXPLORING`
 
-<br/>
+<br>
 
-|  🤖 AI  |      🧠 AGENTS      | 💻 SOFTWARE |     🎨 CREATIVE     |
-| :-----: | :-----------------: | :---------: | :-----------------: |
-|   LLMs  | Multi-Agent Systems |    React    |       UI / UX       |
-|  GenAI  |        Memory       |   Next.js   |        Motion       |
-| AI Apps |      Evaluation     |     APIs    | Interactive Systems |
+`🤖 Generative AI`  
+`🧠 LLM Applications`  
+`⚡ AI Agents`  
+`🔗 Model Context Protocol`  
+`💻 Modern Web Development`  
+`🎨 Interactive UI / UX`
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ===================== FEATURED PROJECT =================== -->
 
 <div align="center">
 
 ## `FEATURED PROJECT`
 
-# 🧠 Bud AI
+# 🧠 BUD AI
 
-### Rival-Mentor · AI · Multi-Agent Learning
+### AI · Multi-Agent Learning · Intelligent Systems
 
 </div>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Gemini-0B1220?style=flat-square&logo=google&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Streamlit-0B1220?style=flat-square&logo=streamlit&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA">
+<img src="https://img.shields.io/badge/LangChain-0B1220?style=flat-square&logoColor=60A5FA">
+<img src="https://img.shields.io/badge/Gemini-0B1220?style=flat-square&logo=google&logoColor=60A5FA">
+<img src="https://img.shields.io/badge/ChromaDB-0B1220?style=flat-square&logoColor=60A5FA">
 
 </p>
 
 <p align="center">
-
 An AI-powered learning system exploring specialized AI interactions,
 memory, context and multi-agent workflows.
-
 </p>
 
 <p align="center">
-
 <a href="https://github.com/jouzia/Bud-AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
-
 </p>
 
-<br/>
+<br>
 
 ---
-
-<!-- ===================== SELECTED PROJECTS ================== -->
 
 <div align="center">
 
@@ -197,7 +179,11 @@ academic tracking and intelligent interfaces.
 
 `React` `JavaScript` `Framer Motion`
 
-<a href="https://github.com/jouzia/OpenEnv-Core">View Repository →</a>
+<br>
+
+<a href="https://github.com/jouzia/OpenEnv-Core">
+View Repository →
+</a>
 
 </td>
 
@@ -207,12 +193,16 @@ academic tracking and intelligent interfaces.
 
 **AI Web Perception**
 
-An exploration of Model Context Protocol, browser automation and
-AI-powered web perception.
+An exploration of Model Context Protocol, browser automation
+and AI-powered web perception.
 
 `Next.js` `TypeScript` `Notte` `Patchright`
 
-<a href="https://github.com/jouzia/MCP">View Repository →</a>
+<br>
+
+<a href="https://github.com/jouzia/MCP">
+View Repository →
+</a>
 
 </td>
 
@@ -226,11 +216,16 @@ AI-powered web perception.
 
 **Personal Portfolio**
 
-A modern React/Vite portfolio with Supabase-backed functionality.
+A modern React/Vite portfolio exploring interactive presentation,
+responsive design and modern frontend development.
 
 `React` `Vite` `Supabase` `Tailwind`
 
-<a href="https://github.com/jouzia/Portfolio">View Repository →</a>
+<br>
+
+<a href="https://github.com/jouzia/Portfolio">
+View Repository →
+</a>
 
 </td>
 
@@ -241,64 +236,64 @@ A modern React/Vite portfolio with Supabase-backed functionality.
 **AI Application**
 
 A Python-based AI application exploring conversational interfaces
-and supporting application infrastructure.
+and AI-powered application development.
 
 `Python` `AI` `Streamlit`
 
-<a href="https://github.com/jouzia/Chat-AI">View Repository →</a>
+<br>
+
+<a href="https://github.com/jouzia/Chat-AI">
+View Repository →
+</a>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
-
-<!-- ======================= ACHIEVEMENTS ==================== -->
 
 <div align="center">
 
 ## `ACHIEVEMENTS`
 
-<br/>
+<br>
 
 ### 🥇 1st Place
-
 **PPT / Presentation Competition**
 
-<br/>
+*Winner — 1st Place*
+
+<br>
 
 ### 🥉 3rd Place
-
 **Intra-Departmental Start-up Business Plan Competition**
 
-St. Joseph's College of Arts & Science
+*St. Joseph's College of Arts & Science*
 
-<br/>
+<br>
 
 ### 🏆 PromptWars Virtual
 
 **Google for Developers × H2S**
 
-Generative AI solution challenge
+*Generative AI solution challenge*
 
-<br/>
+<br>
 
 ### 🧠 QuizOff 2026
 
 **India's Biggest AI Quiz**
 
-CampusCrew × Unstop
+*CampusCrew × Unstop*
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ====================== CERTIFICATIONS ==================== -->
 
 <div align="center">
 
@@ -309,116 +304,119 @@ CampusCrew × Unstop
 <details>
 <summary><b>🤖 AI & Technology</b></summary>
 
-<br/>
+<br>
 
-* **Artificial Intelligence Fundamentals** — IBM SkillsBuild
-* **Getting Started with Artificial Intelligence** — IBM SkillsBuild
-* **Classifying Data Using IBM Granite** — IBM SkillsBuild
-* **Technology Software Development Job Simulation** — Forage
-* **Cyber Job Simulation** — Deloitte × Forage
+- **Artificial Intelligence Fundamentals** — IBM SkillsBuild
+- **Getting Started with Artificial Intelligence** — IBM SkillsBuild
+- **Classifying Data Using IBM Granite** — IBM SkillsBuild
+- **Technology Software Development Job Simulation** — Forage
 
 </details>
 
-<br/>
+<br>
 
 <details>
-<summary><b>📊 Data, Business & Professional</b></summary>
+<summary><b>💻 Development & Cybersecurity</b></summary>
 
-<br/>
+<br>
 
-* **Data Analytics Job Simulation** — Deloitte × Forage
-* **Project Management Fundamentals** — IBM SkillsBuild
-* **Job Application Essentials** — IBM SkillsBuild
+- **Cyber Job Simulation** — Deloitte × Forage
+- **Technology Software Development Job Simulation** — Forage
+- **IBM Bob Hackathon Certificate** — IBM
 
 </details>
 
-<br/>
+<br>
+
+<details>
+<summary><b>📊 Data & Professional</b></summary>
+
+<br>
+
+- **Data Analytics Job Simulation** — Deloitte × Forage
+- **Project Management Fundamentals** — IBM SkillsBuild
+- **Job Application Essentials** — IBM SkillsBuild
+
+</details>
+
+<br>
 
 <details>
 <summary><b>🎨 Design & Digital</b></summary>
 
-<br/>
+<br>
 
-* **Graphic Design** — Adobe × Coursera
-* **Social Media Certified** — HubSpot Academy
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🏆 Other</b></summary>
-
-<br/>
-
-* **IBM Bob Hackathon Certificate**
+- **Graphic Design** — Adobe × Coursera
+- **Social Media Certified** — HubSpot Academy
 
 </details>
 
-<br/>
+<br>
 
-<div align="center">
-
-**More certificates available on request / LinkedIn**
-
-</div>
-
-<br/>
+> More credentials can be added as the collection grows.
 
 ---
-
-<!-- ========================= STATS ========================== -->
 
 <div align="center">
 
 ## `GITHUB ACTIVITY`
 
-<br/>
+<br>
 
 <img
-src="https://streak-stats.demolab.com/?user=jouzia&hide_border=true&background=0B1220&stroke=334155&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=60A5FA"
-width="90%"
-/>
+  src="https://streak-stats.demolab.com/?user=jouzia&hide_border=true&background=0B1220&stroke=334155&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=60A5FA"
+  width="90%"
+>
 
-<br/><br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1220"
-width="48%"
-/>
+<br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouzia&layout=compact&langs_count=8&hide_border=true&title_color=60A5FA&text_color=94A3B8&bg_color=0B1220"
-width="48%"
-/>
+  src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1220"
+  width="48%"
+>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jouzia&layout=compact&langs_count=8&hide_border=true&title_color=60A5FA&text_color=94A3B8&bg_color=0B1220"
+  width="48%"
+>
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ====================== CONTRIBUTIONS ===================== -->
 
 <div align="center">
 
 ## `CONTRIBUTIONS`
 
-<br/>
+<br>
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg"
+>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
+>
 
 <img
-src="https://raw.githubusercontent.com/jouzia/jouzia/output/snake-dark.svg"
-alt="GitHub contribution snake"
-width="90%"
-/>
+  src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="90%"
+>
+
+</picture>
 
 </div>
 
-<br/>
+<br>
 
 ---
-
-<!-- ========================= EDUCATION ====================== -->
 
 <div align="center">
 
@@ -432,71 +430,35 @@ width="90%"
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-<!-- ========================= LEARNING ======================= -->
-
 <div align="center">
 
-## `CURRENT LEARNING`
-
-</div>
+## `LEARNING NEXT`
 
 ```text
 AI
  ├── Generative AI
  ├── LLM Applications
- ├── Agentic Systems
+ ├── AI Agents
  └── AI Evaluation
 
 Software
  ├── React
  ├── Next.js
- ├── API Design
+ ├── APIs
  └── Full-Stack Architecture
 
 Data
  ├── Machine Learning
  ├── Analytics
  └── Visualization
-```
-
-<br/>
-
----
-
-<!-- ========================== CONNECT ======================= -->
-
-<div align="center">
-
-## `LET'S CONNECT`
-
-<br/>
-
-<a href="https://jouziaportfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344">
-<img src="https://img.shields.io/badge/LINKEDIN-1E293B?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-
-<a href="https://github.com/jouzia">
-<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**Open to learning, building and collaborating.**
-
-<br/><br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:334155,75:0B1220,100:05080D&height=120&section=footer"
-width="100%"
-/>
-
 </div>
-```
+<br>
+
+
+
+
+
