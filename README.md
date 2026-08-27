@@ -113,8 +113,6 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ## GitHub Activity
 
-## `10` — GITHUB ACTIVITY
-
 <p align="center">
   <img
     src="./profile/github-stats.svg"
@@ -128,10 +126,8 @@ Recognition / participation certificate · **19 Jul 2026**
     alt="Shaik Jouzia Afreen H top programming languages"
   />
 </p>
-
 ---
 
-##  Contributions
 ## Contributions
 
 <p align="center">
