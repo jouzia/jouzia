@@ -126,6 +126,7 @@ Recognition / participation certificate · **19 Jul 2026**
     alt="Shaik Jouzia Afreen H top programming languages"
   />
 </p>
+
 ---
 
 ## Contributions
