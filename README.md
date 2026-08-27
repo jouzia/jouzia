@@ -113,6 +113,8 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ## GitHub Activity
 
+## `10` — GITHUB ACTIVITY
+
 <p align="center">
   <img
     src="./profile/github-stats.svg"
@@ -130,12 +132,23 @@ Recognition / participation certificate · **19 Jul 2026**
 ---
 
 ##  Contributions
+## Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg" alt="GitHub contribution snake animation">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
   </picture>
 </p>
 
