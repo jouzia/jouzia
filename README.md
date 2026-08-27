@@ -4,7 +4,7 @@
   <img src="./assets/github-banner.gif" width="100%" alt="Shaik Jouzia Afreen H animated profile banner">
 </p>
 
-<h1 align="center">Hi, I'm Shaik Jouzia Afreen H 👋</h1>
+<h1 align="center">Hi, I'm Shaik Jouzia Afreen H </h1>
 
 <p align="center"><strong>BCA Student · AI Explorer · Developer · Builder</strong></p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I'm **Shaik Jouzia Afreen H**, a BCA student at **St. Joseph's College of Arts & Science (Autonomous)**, building my foundation across AI, web development, and software engineering.
 
@@ -28,55 +28,55 @@ I enjoy turning ideas into working projects — especially when a project lets m
 
 ---
 
-## 🚀 What I'm Exploring
+##  What I'm Exploring
 
 | Area | Focus |
 |---|---|
-| 🤖 AI | AI applications, agents, LLM-powered experiences |
-| 💻 Development | React, JavaScript, Python, Streamlit |
-| 🎨 Frontend | Responsive UI, animation, glassmorphism |
-| 🧠 Learning | Machine Learning, advanced React, API design |
-| 🗃️ Backend | Supabase, PostgreSQL, authentication & storage |
-| ⚙️ Engineering | Modular architecture, deployment, experimentation |
+|  AI | AI applications, agents, LLM-powered experiences |
+|  Development | React, JavaScript, Python, Streamlit |
+|  Frontend | Responsive UI, animation, glassmorphism |
+|  Learning | Machine Learning, advanced React, API design |
+|  Backend | Supabase, PostgreSQL, authentication & storage |
+|  Engineering | Modular architecture, deployment, experimentation |
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
-### 🤖 [Bud-AI](https://github.com/jouzia/Bud-AI)
+###  [Bud-AI](https://github.com/jouzia/Bud-AI)
 Multi-agent educational AI platform exploring agent routing, stateful study environments, memory, reward-driven evaluation, React/Next.js and Python.
 
-### 🧠 [Chat-AI](https://github.com/jouzia/Chat-AI)
+###  [Chat-AI](https://github.com/jouzia/Chat-AI)
 Python-based AI project exploring conversational systems, assistant logic, dashboards and supporting components.
 
-### 🌐 [Portfolio](https://github.com/jouzia/Portfolio)
+###  [Portfolio](https://github.com/jouzia/Portfolio)
 Full-stack portfolio built with React + Vite, Tailwind CSS, Framer Motion and Supabase, including authentication, certificate storage and project management.
 
-### 📚 [OpenEnv-Core](https://github.com/jouzia/OpenEnv-Core)
+###  [OpenEnv-Core](https://github.com/jouzia/OpenEnv-Core)
 Interactive academic dashboard with a Logic Forge, AI companion, CGPA projection and animated glassmorphism UI.
 
-### 🧩 [MCP](https://github.com/jouzia/MCP)
+###  [MCP](https://github.com/jouzia/MCP)
 AI-powered web perception and multi-agent MCP project using Next.js, TypeScript, Notte SDK, Patchright and Python.
 
-### ⚡ [buddy-lab-demo](https://github.com/jouzia/buddy-lab-demo)
+###  [buddy-lab-demo](https://github.com/jouzia/buddy-lab-demo)
 Next.js application experiment focused on modern component-based web development.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **1st Place — PPT Presentation**  
+-  **1st Place — PPT Presentation**  
   Won first place in a PPT presentation competition. *No certificate was issued.*
 
-- 🥉 **3rd Place — Start-up Business Plan Competition**  
+-  **3rd Place — Start-up Business Plan Competition**  
   Intra-Departmental Start-up Business Plan Competition · St. Joseph's College · **02 Aug 2024**
 
-- 🧠 **QuizOff 2026 — India's Biggest AI Quiz**  
+-  **QuizOff 2026 — India's Biggest AI Quiz**  
   Recognised among selected participants in an AI quiz organised by CampusCrew and hosted on Unstop · **19 Jul 2026**
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 **IBM SkillsBuild** — *Classifying Data Using IBM Granite*  
 
@@ -88,7 +88,7 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ---
 
-## 🎓 Education
+##  Education
 
 ### Bachelor of Computer Applications — BCA
 **St. Joseph's College of Arts & Science (Autonomous)**  
@@ -96,7 +96,7 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** `Python` `JavaScript` `TypeScript` `Java` `HTML` `CSS`
 
@@ -110,7 +110,7 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub statistics">
@@ -122,7 +122,7 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ---
 
-## 🐍 Contributions
+##  Contributions
 
 <p align="center">
   <picture>
@@ -134,7 +134,7 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ---
 
-## 💡 My Approach
+##  My Approach
 
 ```text
 Curiosity → Learn → Build → Break things → Debug → Improve → Repeat
@@ -146,7 +146,7 @@ I want it to show that I'm **actively learning, actually building, and getting b
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
