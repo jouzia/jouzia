@@ -113,10 +113,19 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jouzia&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1"
+    src="./profile/github-stats.svg"
     alt="Shaik Jouzia Afreen H GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Shaik Jouzia Afreen H top programming languages"
   />
 </p>
 
