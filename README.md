@@ -113,8 +113,6 @@ Recognition / participation certificate · **19 Jul 2026**
 
 ## GitHub Activity
 
-## GitHub Activity
-
 <p align="center">
   <img
     src="./profile/github-stats.svg"
