@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
   <a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344/">LinkedIn</a> ·
-  <a href="https://jouziaportfolio.vercel.app/">Portfolio</a>
+  <a href="https://portfolio-sjha.vercel.app/">Portfolio</a>
 </p>
 
 ---
