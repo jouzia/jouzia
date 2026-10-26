@@ -4,11 +4,11 @@
   <img src="./assets/github-banner.gif" width="100%" alt="Shaik Jouzia Afreen H animated profile banner">
 </p>
 
-<h1 align="center">Hi, I'm Shaik Jouzia Afreen H </h1>
+<h1 align="center">Shaik Jouzia Afreen H</h1>
 
-<p align="center"><strong>BCA Student · AI Explorer · Developer · Builder</strong></p>
+<p align="center"><strong>BCA Student · Applied AI Research · Software Engineering</strong></p>
 
-<p align="center">I learn by building — exploring AI, software development, and creative technology.</p>
+<p align="center">I investigate how AI systems behave, build software around practical problems, and document what the evidence actually supports.</p>
 
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
@@ -18,159 +18,179 @@
 
 ---
 
-##  About Me
+## About
 
-I'm **Shaik Jouzia Afreen H**, a BCA student at **St. Joseph's College of Arts & Science (Autonomous)**, building my foundation across AI, web development, and software engineering.
+I'm **Shaik Jouzia Afreen H**, a BCA student at **St. Joseph's College of Arts & Science (Autonomous), India**.
 
-I enjoy turning ideas into working projects — especially when a project lets me combine **AI + interfaces + practical problem solving**.
+My GitHub work is organized into two tracks:
 
-> I'm early in my journey — and that's exactly why I'm building in public, experimenting often, and improving with every project.
+- **Research:** empirical studies of retrieval-augmented generation (RAG), LLM routing and transfer, and the water impact of AI infrastructure.
+- **Engineering projects:** AI applications, agent-based experiences, developer tools, and backend systems.
 
----
-
-##  What I'm Exploring
-
-| Area | Focus |
-|---|---|
-|  AI | AI applications, agents, LLM-powered experiences |
-|  Development | React, JavaScript, Python, Streamlit |
-|  Frontend | Responsive UI, animation, glassmorphism |
-|  Learning | Machine Learning, advanced React, API design |
-|  Backend | Supabase, PostgreSQL, authentication & storage |
-|  Engineering | Modular architecture, deployment, experimentation |
+I value reproducible experiments, clear limitations, and honest reporting. Ongoing work is labelled as ongoing; preliminary findings are not presented as established results.
 
 ---
 
-##  Featured Projects
+# Research
 
-###  [Bud-AI](https://github.com/jouzia/Bud-AI)
-Multi-agent educational AI platform exploring agent routing, stateful study environments, memory, reward-driven evaluation, React/Next.js and Python.
+These repositories document independent research projects. They are not presented as peer-reviewed publications.
 
-###  [Chat-AI](https://github.com/jouzia/Chat-AI)
-Python-based AI project exploring conversational systems, assistant logic, dashboards and supporting components.
+## 1. RAG Retrieval Robustness
 
-###  [Portfolio](https://github.com/jouzia/Portfolio)
-Full-stack portfolio built with React + Vite, Tailwind CSS, Framer Motion and Supabase, including authentication, certificate storage and project management.
+**[Effects of Appended Distractor Context on RAG Answer Quality and Generation Latency](https://github.com/jouzia/rag-retrieval-robustness-benchmark)**
 
-###  [OpenEnv-Core](https://github.com/jouzia/OpenEnv-Core)
-Interactive academic dashboard with a Logic Forge, AI companion, CGPA projection and animated glassmorphism UI.
+Studies how adding distractor chunks to retrieved context affects answer-quality measures and generation-call latency across BM25, dense, and hybrid retrieval pipelines.
 
-###  [MCP](https://github.com/jouzia/MCP)
-AI-powered web perception and multi-agent MCP project using Next.js, TypeScript, Notte SDK, Patchright and Python.
+- **Research focus:** retrieval-augmented generation, distractor context, answer quality, latency.
+- **Approach:** controlled evaluation across retrieval approaches and distractor conditions.
+- **Status:** exploratory empirical study; conclusions are limited to the tested benchmark, implementation, top-k setting, and noise conditions.
+- **Important scope note:** this is an appended-context evaluation, not a universal claim about retrieval-ranking robustness.
 
-###  [buddy-lab-demo](https://github.com/jouzia/buddy-lab-demo)
-Next.js application experiment focused on modern component-based web development.
+## 2. AI Waste Heat to Water
 
----
+**[From AI Waste Heat to Water: A Net-Water-Impact Framework for Sustainable AI Infrastructure](https://github.com/jouzia/ai-waste-heat-water)**
 
-##  Achievements
+Develops a framework for assessing when AI infrastructure waste heat might support thermal desalination while accounting for cooling, energy, and water burdens.
 
--  **1st Place — PPT Presentation**  
-  Won first place in a PPT presentation competition. *No certificate was issued.*
+- **Research focus:** AI infrastructure sustainability, thermal desalination, net freshwater impact, sensitivity and uncertainty analysis.
+- **Approach:** transparent system boundaries and water/energy accounting that distinguish gross freshwater production from net impact.
+- **Status:** ongoing modeling and research framework.
+- **Important scope note:** modeled and illustrative outputs are not proof of real-world water savings.
 
--  **3rd Place — Start-up Business Plan Competition**  
-  Intra-Departmental Start-up Business Plan Competition · St. Joseph's College · **02 Aug 2024**
+## 3. LLM Router Transfer Study
 
--  **QuizOff 2026 — India's Biggest AI Quiz**  
-  Recognised among selected participants in an AI quiz organised by CampusCrew and hosted on Unstop · **19 Jul 2026**
+**[Evaluating Cross-Benchmark Transfer of a Lightweight LLM Router](https://github.com/jouzia/llm-router-transfer-study)**
 
----
+Investigates whether a lightweight prompt-feature router generalizes across benchmark families and how its results compare with fixed-model baselines.
 
-##  Certifications
-
-**IBM SkillsBuild** — *Classifying Data Using IBM Granite*  
-
-**HubSpot Academy** — *Social Media Certified*  
-Valid **May 23, 2026 – Jun 21, 2028**
-
-**CampusCrew × Unstop** — *QuizOff 2026: India's Biggest AI Quiz*  
-Recognition / participation certificate · **19 Jul 2026**
+- **Research focus:** LLM routing, cross-benchmark transfer, baseline selection, evaluation reliability.
+- **Approach:** empirical comparison of a lightweight router and fixed-model baselines, including held-out benchmark evaluation.
+- **Status:** experimental results available; broader generalization and algorithmic novelty are not established.
+- **Important scope note:** current evidence does not establish consistent superiority over the global baseline.
 
 ---
 
-##  Education
+# Engineering Projects
 
-### Bachelor of Computer Applications — BCA
-**St. Joseph's College of Arts & Science (Autonomous)**  
-**2024 – 2027**
+These projects focus on implementing AI applications, developer tools, and software systems. Their maturity and runtime verification vary by repository; see each project's README for its current status.
+
+## AI Applications and Agent Systems
+
+### [Bud AI](https://github.com/jouzia/Bud-AI)
+A multi-agent educational AI platform exploring agent routing, stateful study environments, conversational memory, and reward-driven evaluation, with a Next.js interface and Python components.
+
+### [Chat-AI](https://github.com/jouzia/Chat-AI)
+A conversational learning assistant experiment using Streamlit, LangChain, Gemini/Groq models, and ChromaDB, with mentor and rival-style AI personas.
+
+### [OpenEnv-Core](https://github.com/jouzia/OpenEnv-Core)
+An interactive study dashboard concept with a logic-learning workspace, AI companion, provisional CGPA projections, and an animated interface.
+
+### [MCP — Web Perception and Browser Automation](https://github.com/jouzia/MCP)
+An MCP-oriented web perception and browser automation project exploring Next.js, TypeScript, Python, Notte, and Patchright.
+
+## Developer Tools and Backend Systems
+
+### [Tracker-AI](https://github.com/jouzia/Tracker-AI)
+An evolving personal idea and developer-tool project. See the repository for the current implementation and scope.
+
+### [Pulse-AI](https://github.com/jouzia/Pulse-AI)
+An event-driven notification infrastructure project using FastAPI, PostgreSQL, Redis, and Celery, with asynchronous delivery, retries, rate limiting, and observability planned in the implementation. Check the repository's testing notes for runtime-verification status.
+
+## Web Development
+
+### [Portfolio](https://github.com/jouzia/Portfolio)
+A portfolio website built with React, Vite, Tailwind CSS, Framer Motion, and Supabase, with authentication and content-management features.
+
+### [buddy-lab-demo](https://github.com/jouzia/buddy-lab-demo)
+A Next.js experiment focused on component-based web development and modern UI implementation.
 
 ---
 
-##  Tech Stack
+## Research Interests
 
-**Languages:** `Python` `JavaScript` `TypeScript` `Java` `HTML` `CSS`
+- Retrieval-augmented generation and information retrieval
+- Robustness to distractor context and retrieval defects
+- LLM routing, model selection, and cross-benchmark transfer
+- Evaluation design, baselines, uncertainty, and reproducibility
+- Efficient AI systems and inference cost
+- Sustainability and net-water impact of AI infrastructure
 
-**Frontend:** `React` `Next.js` `Vite` `Tailwind CSS` `Framer Motion`
+## Technical Toolkit
 
-**AI / Data:** `LangChain` `Gemini` `Groq / Llama` `AI Agents` `ChromaDB` `Streamlit`
+**Languages:** Python · JavaScript · TypeScript · Java · HTML · CSS
 
-**Backend / Cloud:** `Supabase` `PostgreSQL` `Authentication` `Storage` `Vercel`
+**Frontend:** React · Next.js · Vite · Tailwind CSS · Framer Motion
 
-**Tools:** `Git` `GitHub` `GitHub Actions` `VS Code` `Linux`
+**AI and data:** LLM APIs · Gemini · Groq/Llama · LangChain · AI agents · ChromaDB · Streamlit
+
+**Backend and infrastructure:** FastAPI · PostgreSQL · Supabase · Redis · Celery · Vercel
+
+**Tools:** Git · GitHub · GitHub Actions · VS Code · Linux
+
+*Technologies listed reflect project work and ongoing learning; proficiency and runtime verification vary by project.*
 
 ---
 
+## Achievements
+
+- **1st Place — PPT Presentation:** won first place in a presentation competition; no certificate was issued.
+- **3rd Place — Start-up Business Plan Competition:** intra-departmental competition at St. Joseph's College, **2 August 2024**.
+- **QuizOff 2026 — India's Biggest AI Quiz:** recognition/participation associated with CampusCrew and Unstop, **19 July 2026**.
+
+## Certifications
+
+- **IBM SkillsBuild** — *Classifying Data Using IBM Granite*
+- **HubSpot Academy** — *Social Media Certified*; valid **23 May 2026 – 21 June 2028**
+- **CampusCrew × Unstop** — *QuizOff 2026: India's Biggest AI Quiz*; recognition/participation certificate, **19 July 2026**
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**  
+St. Joseph's College of Arts & Science (Autonomous), India
+
+---
 
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/github-stats.svg"
-    alt="Shaik Jouzia Afreen H GitHub statistics"
-  />
+  <img src="./profile/github-stats.svg" alt="Shaik Jouzia Afreen H GitHub statistics">
 </p>
 
 <p align="center">
-  <img
-    src="./profile/top-langs.svg"
-    alt="Shaik Jouzia Afreen H top programming languages"
-  />
+  <img src="./profile/top-langs.svg" alt="Shaik Jouzia Afreen H top programming languages">
 </p>
-
----
 
 ## Contributions
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg"
-      alt="GitHub contribution snake animation"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/jouzia/jouzia/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
   </picture>
 </p>
 
 ---
 
-##  My Approach
+## How I Work
 
 ```text
-Curiosity → Learn → Build → Break things → Debug → Improve → Repeat
+Question → Hypothesis → Experiment → Measure → Audit → Improve
+                         ↘ Build → Test → Document
 ```
 
-I don't want my profile to pretend that I've already done everything.
-
-I want it to show that I'm **actively learning, actually building, and getting better.**
+I want my profile to show both sides of my work: **research questions tested carefully** and **software projects built iteratively**. I aim to make the evidence, limitations, and current status clear enough for collaborators, researchers, and recruiters to evaluate.
 
 ---
 
-##  Let's Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
   <a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344/">LinkedIn</a> ·
-  <a href="https://jouziaportfolio.vercel.app/">Portfolio</a>
+  <a href="https://portfolio-sjha.vercel.app/">Portfolio</a>
 </p>
 
-<p align="center"><strong>Open to internships, collaborations, projects and opportunities to learn.</strong></p>
+<p align="center"><strong>Open to internships, research conversations, collaborations, and applied AI engineering opportunities.</strong></p>
 
-<p align="center"><sub>Built with curiosity • maintained with consistency • one project at a time.</sub></p>
+<p align="center"><sub>Built with curiosity · evaluated with care · improved through iteration.</sub></p>
