@@ -35,7 +35,7 @@ I value reproducible experiments, clear limitations, and honest reporting. Ongoi
 
 These repositories document independent research projects. They are not presented as peer-reviewed publications.
 
-## 1. RAG Retrieval Robustness
+## 1. RAG Appended-Context Study
 
 **[Effects of Appended Distractor Context on RAG Answer Quality and Generation Latency](https://github.com/jouzia/rag-retrieval-robustness-benchmark)**
 
@@ -91,7 +91,7 @@ An MCP-oriented web perception and browser automation project exploring Next.js,
 ## Developer Tools and Backend Systems
 
 ### [Tracker-AI](https://github.com/jouzia/Tracker-AI)
-An evolving personal idea and developer-tool project. See the repository for the current implementation and scope.
+A pre-implementation concept for a developer portal combining project tracking, grounded debugging assistance, and deployment telemetry. The public repository currently contains the concept README only; no working application or tests are claimed.
 
 ### [Pulse-AI](https://github.com/jouzia/Pulse-AI)
 An event-driven notification infrastructure project using FastAPI, PostgreSQL, Redis, and Celery, with asynchronous delivery, retries, rate limiting, and observability planned in the implementation. Check the repository's testing notes for runtime-verification status.
