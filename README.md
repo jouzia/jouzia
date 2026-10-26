@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/jouzia-afreen-h/">LinkedIn</a> ·
   <a href="https://portfolio-sjha.vercel.app/">Portfolio</a>
 </p>
 
@@ -187,7 +187,7 @@ I want my profile to show both sides of my work: **research questions tested car
 
 <p align="center">
   <a href="https://github.com/jouzia">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jouzia-afreen-h-369018344/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/jouzia-afreen-h/">LinkedIn</a> ·
   <a href="https://portfolio-sjha.vercel.app/">Portfolio</a>
 </p>
 
