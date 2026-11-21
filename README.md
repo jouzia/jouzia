@@ -4,7 +4,7 @@
   <img src="./assets/github-banner.gif" width="100%" alt="Shaik Jouzia Afreen H animated profile banner">
 </p>
 
-<h1 align="center">Shaik Jouzia Afreen H</h1>
+<h1 align="center">Shaik Jouzia Afreen H</h1> 
 
 <p align="center"><strong>BCA Student · Applied AI Research · Software Engineering</strong></p>
 
