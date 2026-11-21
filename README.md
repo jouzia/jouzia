@@ -1,4 +1,4 @@
-<!-- SHAIK JOUZIA AFREEN H -->
+<!-- SHAIK JOUZIA AFREEN H --> 
 
 <p align="center">
   <img src="./assets/github-banner.gif" width="100%" alt="Shaik Jouzia Afreen H animated profile banner">
